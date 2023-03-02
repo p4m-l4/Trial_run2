@@ -1,0 +1,22 @@
+{
+  "name": "trial_run2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4m-l4/Trial_run2.git"
+  },
+  "author": "p4m3l4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p4m-l4/Trial_run2/issues"
+  },
+  "homepage": "https://github.com/p4m-l4/Trial_run2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
