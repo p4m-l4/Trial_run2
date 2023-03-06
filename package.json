@@ -20,7 +20,8 @@
   "homepage": "https://github.com/p4m-l4/Trial_run2#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
   },
   "devDependencies": {
     "chai": "^4.3.7",
@@ -28,7 +29,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
     "mocha": "^10.2.0",
-    "nodemon": "^2.0.21",
-    "mochawesome": "^7.1.3"
+    "mochawesome": "^7.1.3",
+    "nodemon": "^2.0.21"
   }
 }
